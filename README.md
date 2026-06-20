@@ -227,7 +227,7 @@ Examines which borrower characteristics most strongly predict default behaviour.
 
 **Pivot Tables used:**
 
-![Financial Analysis Pivot Tables](Dashboard%20Images/Financial%20Analysis%20Pivot%20Tables.png)
+![Financial Analysis Pivot Tables](Images/Pivot%20Tables/Financial%20Analysis%20Pivot%20Tables.png)
 
 Focuses on how loan size, interest rate, debt load, repayment amount, and savings level relate to default risk.
 
