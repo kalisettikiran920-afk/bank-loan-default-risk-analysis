@@ -118,7 +118,7 @@ Raw Data → Data Cleaning → Feature Engineering → Exploratory Analysis → 
 | New Feature | Source Column | Logic | Business Value |
 |---|---|---|---|
 | **Defaulted_Flag** | Defaulted | Yes = 1, No = 0 | Powers numeric default rate calculations across all dashboards |
-| **Credit_Score_Band** | Credit_Score | Poor / Average / Good / Fair / Excellent | Segments borrowers by credit quality for risk comparison |
+| **Credit_Score_Band** | Credit_Score | Poor (300-549) / Average (550-649) / Good (650-699) / Fair (700-749) / Excellent (750-900) | Segments borrowers by credit quality for risk comparison |
 | **DTI_Band** | Debt_to_Income_Ratio | 0–20% / 21–40% / 41–60% / 61%+ | Identifies financially over-stretched borrowers |
 | **Loan_Amount_Band** | Loan_Amount | 0–2L / 2–5L / 5–10L / 10–20L / 20L+ | Enables default rate comparison by loan size |
 | **Interest_Rate_Band** | Interest_Rate | Below 8% / 8–10% / 10–12% / 12–14% / Above 14% | Supports pricing risk analysis |
