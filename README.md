@@ -186,6 +186,7 @@ The entry point and navigation hub for the entire project. Includes the business
 
 **Pivot Tables used:**
 
+![KPI Calculations Pivot Tables]
 ![Executive Dashboard Pivot Tables](Dashboard%20Images/Executive%20Dashboard%20Pivot%20Tables.png)
 
 Portfolio-level overview for senior stakeholders — covers loan type distribution, default split, employment breakdown, risk category, and loan term analysis.
