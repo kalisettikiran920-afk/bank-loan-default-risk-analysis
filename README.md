@@ -242,24 +242,28 @@ Focuses on how loan size, interest rate, debt load, repayment amount, and saving
 
 ## Key Insights
 
-**Portfolio Level**
+#### Portfolio Level
+
 1. The overall default rate of **31.5%** means nearly 1 in 3 borrowers fails to repay — this level of risk requires a portfolio-wide review.
 2. Loan type distribution is nearly identical across all four products (~1,243–1,265 each), so default risk is not concentrated in any single loan type.
 
-**Credit & Borrower Risk**
-3. **Credit score is the strongest single predictor of default.** Poor-score borrowers default at 40.3% — nearly double the 21.8% rate for Excellent-score borrowers. The relationship holds consistently across all five bands.
-4. **One previous default raises risk by 67%.** Borrowers with a prior default default at 37%, vs 22.2% for clean-history borrowers.
-5. **Missed payments are an early warning signal.** Default rates stay manageable (24–26%) for 0–2 missed payments, then jump sharply above 37% from 4 missed payments onward.
+#### Credit & Borrower Risk
 
-**Employment & Location**
-6. **Unemployed borrowers carry the highest default rate by employment segment (33%)**, followed by Self Employed (31.5%).
-7. **Tier 2 city borrowers default slightly more (33.1%)** than Tier 1 (31.7%) and Tier 3 (29.7%) — geographic risk is broadly spread.
+1. **Credit score is the strongest single predictor of default.** Poor-score borrowers default at 40.3% — nearly double the 21.8% rate for Excellent-score borrowers. The relationship holds consistently across all five bands.
+2. **One previous default raises risk by 67%.** Borrowers with a prior default default at 37%, vs 22.2% for clean-history borrowers.
+3. **Missed payments are an early warning signal.** Default rates stay manageable (24–26%) for 0–2 missed payments, then jump sharply above 37% from 4 missed payments onward.
 
-**Financial Structure**
-8. **DTI above 61% is the biggest financial red flag** — this group defaults at 39.1%, the highest rate across all financial segments.
-9. **Low savings is a strong vulnerability signal.** Borrowers with under ₹25,000 in savings default at 39.6%, nearly 10 points above the ₹1–5 Lakh savings group (30.9%).
-10. **Larger loans carry more risk.** The ₹20 Lakh+ bracket has the highest loan-size default rate at 33.2%.
-11. **The 8–10% interest rate band defaults the most (33.8%)** — counterintuitive, likely reflecting adverse selection where moderate-risk borrowers get mid-range rates but still default at high rates.
+#### Employment & Location
+
+1. **Unemployed borrowers carry the highest default rate by employment segment (33%)**, followed by Self Employed (31.5%).
+2. **Tier 2 city borrowers default slightly more (33.1%)** than Tier 1 (31.7%) and Tier 3 (29.7%) — geographic risk is broadly spread.
+
+#### Financial Structure
+
+1. **DTI above 61% is the biggest financial red flag** — this group defaults at 39.1%, the highest rate across all financial segments.
+2. **Low savings is a strong vulnerability signal.** Borrowers with under ₹25,000 in savings default at 39.6%, nearly 10 points above the ₹1–5 Lakh savings group (30.9%).
+3. **Larger loans carry more risk.** The ₹20 Lakh+ bracket has the highest loan-size default rate at 33.2%.
+4. **The 8–10% interest rate band defaults the most (33.8%)** — counterintuitive, likely reflecting adverse selection where moderate-risk borrowers get mid-range rates but still default at high rates.
 
 ---
 
