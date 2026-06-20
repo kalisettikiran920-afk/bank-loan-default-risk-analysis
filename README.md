@@ -207,7 +207,7 @@ Portfolio-level overview for senior stakeholders — covers loan type distributi
 
 **Pivot Tables used:**
 
-![Customer Risk Pivot Tables](Dashboard%20Images/Customer%20Risk%20Pivot%20Tables.png)
+![Customer Risk Pivot Tables](Images/Pivot%20Tables/Customer%20Risk%20Analysis%20Pivot%20Tables.png)
 
 Examines which borrower characteristics most strongly predict default behaviour.
 
